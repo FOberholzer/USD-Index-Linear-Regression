@@ -1,2 +1,13 @@
-# USD-Index-Linear-Regression
-An exploratory data analysis and simple linear regression model to predict the USD Index. This notebook explores how various factors influence the USD Index and uses linear regression to make predictions
+# USD Index Linear Regression Analysis
+
+## Description
+This project contains exploratory data analysis and a simple linear regression model for predicting the USD Index.
+
+## Technologies Used
+- Python
+- Jupyter Notebook
+- scikit-learn
+- pandas
+- matplotlib
+- seaborn
+- linear regression
